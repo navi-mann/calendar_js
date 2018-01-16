@@ -1,0 +1,13 @@
+table,th, tr,td {
+  border: 1px solid black;
+}
+
+th {
+  padding: 5px;
+  text-align: center;
+}
+
+td {
+  padding: 40px;
+  text-align: center;
+}
